@@ -1,1 +1,1 @@
-# git reset
+# git checkout master
